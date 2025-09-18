@@ -251,6 +251,14 @@
               "description": "App Screenshot Generator for App Store&Google Play,Create panoramic screenshots for iOS and Android apps. No account needed.",
               "icon": "/assets/img_1735258064656.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758167466484_8qfdqvu2d",
+              "title": "Photopea | Online Photo Editor",
+              "href": "https://www.photopea.com/",
+              "description": "Photopea Online Photo Editor lets you edit photos, apply effects, filters, add text, crop or resize pictures. Do Online Photo Editing in your browser for free!",
+              "icon": "/assets/favicon_1758167440319.png",
+              "enabled": true
             }
           ],
           "enabled": true
