@@ -99,6 +99,15 @@
       "enabled": true
     },
     {
+      "id": "1758167240429",
+      "title": "中国AI工具包",
+      "icon": "Box",
+      "description": "中国大陆适用",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -842,15 +851,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1758167240429",
-      "title": "中国AI工具包",
-      "icon": "Box",
-      "description": "中国大陆适用",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
