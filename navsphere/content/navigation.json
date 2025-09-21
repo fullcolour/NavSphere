@@ -62,6 +62,14 @@
           "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
           "icon": "/assets/favicon_1758423287567.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758423330985_g1573oli6",
+          "title": "秘塔AI搜索",
+          "href": "https://metaso.cn/",
+          "description": "秘塔AI搜索，没有广告，直达结果",
+          "icon": "/assets/favicon_1758423324404.png",
+          "enabled": true
         }
       ],
       "subCategories": []
