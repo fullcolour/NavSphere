@@ -135,6 +135,14 @@
               "description": "Free online passport photo generator - Create passport photos that meet official requirements",
               "icon": "/assets/favicon_1758423959881.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758424012473_jfkdh2640",
+              "title": "Iping.cc: IP Address Query - IPv4",
+              "href": "https://www.iping.cc/?utm_source=seektool.ai",
+              "description": "IP ping",
+              "icon": "/assets/favicon_1758423994120.ico",
+              "enabled": true
             }
           ]
         }
