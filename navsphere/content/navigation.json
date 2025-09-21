@@ -38,6 +38,14 @@
           "description": "中国版对话语言模型，与GLM大模型进行对话。",
           "icon": "/assets/favicon_1758423112031.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758423156619_vn4t7c6rn",
+          "title": "Kimi AI – Kimi K2 is Live",
+          "href": "https://kimi.moonshot.cn/",
+          "description": "Try Kimi K2, the open-source trillion-parameter MoE AI model for advanced coding assistance, intelligent agents, and automated workflows.",
+          "icon": "/assets/favicon_1758423152874.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
