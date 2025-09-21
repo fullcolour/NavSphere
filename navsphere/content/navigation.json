@@ -14,6 +14,14 @@
           "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
           "icon": "/assets/favicon_1754218571142.svg",
           "enabled": true
+        },
+        {
+          "id": "site_1758423037315_ryy5azb55",
+          "title": "文心一言",
+          "href": "https://agi.baidu.com/",
+          "description": "欢迎使用文心一言创作者平台 | ",
+          "icon": "https://agi.baidu.com/img/favicon.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
