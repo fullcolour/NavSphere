@@ -80,7 +80,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "6591b48c-1e6a-4729-875a-01c955d1a63a",
+          "title": "AI网站",
+          "icon": "Brain",
+          "description": "中国AI网站集合",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
