@@ -88,6 +88,14 @@
           "description": "中国AI网站集合",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "a0f0e948-f70e-4e31-b15e-c608e552cea5",
+          "title": "中国工具",
+          "icon": "LayoutGrid",
+          "description": "工具类网站",
+          "enabled": true,
+          "items": []
         }
       ]
     },
