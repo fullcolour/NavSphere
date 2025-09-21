@@ -30,6 +30,14 @@
           "description": "讯飞星火大模型，是由科大讯飞推出的新一代认知智能大模型，拥有跨领域的知识和语言理解能力，能够基于自然对话方式理解与执行任务，提供语言理解、知识问答、逻辑推理、数学题解答、代码理解与编写等多种能力。",
           "icon": "/assets/favicon_1758423058940.ico",
           "enabled": true
+        },
+        {
+          "id": "site_1758423121564_4fj0gelgh",
+          "title": "智谱清言",
+          "href": "https://chatglm.cn/",
+          "description": "中国版对话语言模型，与GLM大模型进行对话。",
+          "icon": "/assets/favicon_1758423112031.ico",
+          "enabled": true
         }
       ],
       "subCategories": []
