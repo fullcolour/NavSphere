@@ -103,6 +103,14 @@
               "description": "讯飞听见依托科大讯飞的语音识别技术,打造智慧办公服务平台,提供语音转文字、录音转文字、AI写作、视频会议、视频转文字、视频加字幕、同声翻译、语音翻译等服务,可满足多样化的语音转文字及文字编辑需求,致力于提高办公效率。",
               "icon": "/assets/favicon_1758423659232.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758423702724_ghmrh9d80",
+              "title": "博思云创",
+              "href": "https://www.pixso.design/",
+              "description": "",
+              "icon": "/assets/favicon_1758423693896.ico",
+              "enabled": true
             }
           ]
         }
