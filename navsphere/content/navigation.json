@@ -111,6 +111,14 @@
               "description": "",
               "icon": "/assets/favicon_1758423693896.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758423763965_nav8wkzxw",
+              "title": "Canva: Visual Suite for Everyone",
+              "href": "https://www.canva.com",
+              "description": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.",
+              "icon": "/assets/favicon_1758423755516.png",
+              "enabled": true
             }
           ]
         }
