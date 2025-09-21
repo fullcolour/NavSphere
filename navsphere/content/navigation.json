@@ -119,6 +119,14 @@
               "description": "Canva is a free-to-use online graphic design tool. Use it to create social media posts, presentations, posters, videos, logos and more.",
               "icon": "/assets/favicon_1758423755516.png",
               "enabled": true
+            },
+            {
+              "id": "site_1758423847989_nnlzx29jw",
+              "title": "AiPPT - 全智能 AI 一键生成 PPT",
+              "href": "https://AiPPT.cn",
+              "description": "",
+              "icon": "/assets/favicon_1758423838262.ico",
+              "enabled": true
             }
           ]
         }
