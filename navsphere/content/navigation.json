@@ -183,6 +183,14 @@
               "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
               "icon": "/assets/img_1737961266055.png",
               "enabled": true
+            },
+            {
+              "id": "1753395646962",
+              "title": "Screenity",
+              "href": "https://screenity.io/",
+              "description": "开源免费的 chrome 录屏插件。",
+              "icon": "/assets/img_1753395904831.png",
+              "enabled": true
             }
           ]
         }
@@ -309,14 +317,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
             {
               "id": "1753396049185",
               "title": "Cursorful",
