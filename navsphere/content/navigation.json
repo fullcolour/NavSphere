@@ -54,6 +54,14 @@
           "description": "通义是一个通情、达义的国产AI模型，可以帮你解答问题、文档阅读、联网搜索并写作总结，最多支持1000万字的文档速读。通义_你的全能AI助手",
           "icon": "/assets/favicon_1758423222355.png",
           "enabled": true
+        },
+        {
+          "id": "site_1758423294824_2zcg2k280",
+          "title": "腾讯元宝 - 轻松工作 多点生活",
+          "href": "https://yuanbao.tencent.com/",
+          "description": "腾讯元宝是基于腾讯混元大模型的AI应用，可以帮你写作绘画文案翻译编程搜索阅读总结的全能助手",
+          "icon": "/assets/favicon_1758423287567.png",
+          "enabled": true
         }
       ],
       "subCategories": []
