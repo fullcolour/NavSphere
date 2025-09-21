@@ -127,6 +127,14 @@
               "description": "",
               "icon": "/assets/favicon_1758423838262.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1758423972007_cy9n7y4qq",
+              "title": "PassportPhoto.app | PassportPhoto.app",
+              "href": "https://passportphoto.app/en",
+              "description": "Free online passport photo generator - Create passport photos that meet official requirements",
+              "icon": "/assets/favicon_1758423959881.ico",
+              "enabled": true
             }
           ]
         }
