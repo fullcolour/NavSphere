@@ -6,16 +6,7 @@
       "icon": "Box",
       "description": "中国大陆适用",
       "enabled": true,
-      "items": [
-        {
-          "id": "site_1758423369257_nxv2db5mv",
-          "title": "通义灵码_你的智能编码助手-阿里云",
-          "href": "https://lingma.aliyun.com/",
-          "description": "通义灵码是由阿里云提供的智能编码辅助工具，提供代码智能生成、智能问答、多文件修改、编程智能体等能力，为开发者带来智能化研发体验，引领 AI 原生研发新范式。",
-          "icon": "/assets/favicon_1758423360357.png",
-          "enabled": true
-        }
-      ],
+      "items": [],
       "subCategories": [
         {
           "id": "6591b48c-1e6a-4729-875a-01c955d1a63a",
@@ -96,7 +87,16 @@
           "icon": "LayoutGrid",
           "description": "工具类网站",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1758423369257_nxv2db5mv",
+              "title": "通义灵码_你的智能编码助手-阿里云",
+              "href": "https://lingma.aliyun.com/",
+              "description": "通义灵码是由阿里云提供的智能编码辅助工具，提供代码智能生成、智能问答、多文件修改、编程智能体等能力，为开发者带来智能化研发体验，引领 AI 原生研发新范式。",
+              "icon": "/assets/favicon_1758423360357.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
